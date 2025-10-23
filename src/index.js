@@ -9,6 +9,11 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// 👇 Tambahkan ini (route root)
+app.get("/", (req, res) => {
+  res.send("API Cuci Sepatu Supabase berjalan 🚀");
+});
+
 // route utama
 app.use("/api/items", itemRoutes);
 
