@@ -11,7 +11,7 @@ app.use(express.json());
 
 // 👇 Tambahkan ini (route root)
 app.get("/", (req, res) => {
-  res.send("API Cuci Sepatu Supabase berjalan 🚀");
+  res.send("API Cuci Sepatu Supabase menyala abangkuhh 🔥");
 });
 
 // route utama
