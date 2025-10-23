@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Adidas Superstar",
+    "status": "Selesai",
+    "tanggalMasuk": "2025-10-22",
+    "tanggalSelesai": "2025-10-23"
+  },
+  {
+    "id": 2,
+    "nama": "Adidis",
+    "status": "Sedang Dicuci",
+    "tanggalMasuk": "2025-10-23",
+    "tanggalSelesai": "-"
+  },
+  {
+    "id": 3,
+    "nama": "Adudus",
+    "status": "Belum Dicuci",
+    "tanggalMasuk": "2025-10-23",
+    "tanggalSelesai": "-"
+  }
+]
